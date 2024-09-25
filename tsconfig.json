@@ -1,0 +1,21 @@
+{
+  "compilerOptions": {
+    "strict": true,
+    "noImplicitAny": true,
+    "strictNullChecks": true,
+    "module": "ESNext",
+    "jsx": "preserve",
+    "esModuleInterop": true,
+    "allowSyntheticDefaultImports": true,
+    "sourceMap": true,
+    "experimentalDecorators": true,
+    "allowJs": true,
+    "resolveJsonModule": true,
+    "lib": [
+      "ESNext",
+      "dom"
+    ],
+    "rootDir": "src",
+    "moduleResolution": "node"
+  }
+}
